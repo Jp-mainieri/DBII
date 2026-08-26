@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Chaveiro Darth Vader",
+    "tipoDeVenda": "Produto",
+    "insumosNecessarios": [
+      {
+        "tipo": "filamento",
+        "caracteristicas": {
+          "corPadrao": "Preto"
+        },
+        "quantidadeEstimada": 15
+      }
+    ],
+    "adicionaisNecessarios": [
+      {
+        "tipo": "adicional",
+        "caracteristicas": {
+          "tipo": "argola"
+        },
+        "quantidade": 1
+      }
+    ],
+    "tempoEstimado": 3600,
+    "licensa": {
+      "licenciado": true,
+      "valor": 100000
+    },
+    "urlModelo": "https://.",
+    "custoAdicional": {
+      "custoMontagem": 1000,
+      "custoEnergia": 1000
+    }
+  }
+]

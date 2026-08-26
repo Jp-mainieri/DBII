@@ -1,0 +1,32 @@
+[
+  {
+    "categoria": "Filamento",
+    "especificacoes": {
+      "material": "PLA Basic",
+      "corPadrao": "PRETO",
+      "corFabrica": "Noite Escura",
+      "marca": "Bambu Lab"
+    },
+    "medidas": {
+      "diametro": {
+        "largura": 20,
+        "comprimento": 35
+      },
+      "pesagem": {
+        "unidade": "g",
+        "pesoFilamentoOriginal": 1000,
+        "pesoBobina": 500,
+        "pesoComBobina": 1500,
+        "qtdDisponivel": 1000
+      }
+    },
+    "aquisicao": {
+      "dataCompra": "2026-08-25",
+      "fornecedor": "BambuLab",
+      "identificadorNotaFiscal": "230000000000000",
+      "preco": 15000,
+      "acrescimos": 1000,
+      "precoTotal": 13022
+    }
+  }
+]
